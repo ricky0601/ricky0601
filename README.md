@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Hello, My Github!](https://github.com/ricky0601/ricky0601/g-gif-update.gif)
+![Hello, My Github!](https://github.com/user-attachments/assets/4d38996d-58f3-451a-9600-bfc62bee7386)
 <!--
 **ricky0601/ricky0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
