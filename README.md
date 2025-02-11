@@ -56,9 +56,8 @@ I’m a passionate **University Student** specializing in **FE Developer**, with
 
 Feel free to reach out via:
 
-- 🌐 [LinkedIn](https://linkedin.com/in/YourProfile) 
 - ✉️ Email: **[movegun0601@gmail.com]**
-- 💼 [Portfolio](https://yourportfolio.com) 
+- 💼 [Portfolio](https://ricky0601.github.io) 
 
 <!-- Add other platforms or socials if necessary -->
 
