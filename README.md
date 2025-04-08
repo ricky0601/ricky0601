@@ -44,7 +44,9 @@ I’m a passionate **University Student** specializing in **FE Developer**, with
 
 ## 📝 Latest Projects
 
-- 🔗 [Flenders](https://github.com/ricky0601/Flenders): Brief description of what the project is and its purpose.
+- 🔗 [Flenders](https://github.com/ricky0601/Flenders): **I participated in the project as a FE developer.**
+  > Development of an AI-Powered Application to Assist Visually Impaired Individuals with Offline Shopping
+ 
 <!-- - 🔗 [Project 2 Name](https://github.com/YourGitHubUsername/Project2): Brief description of what the project is and its purpose.
 - 🔗 [Project 3 Name](https://github.com/YourGitHubUsername/Project3): Brief description of what the project is and its purpose. -->
 
@@ -52,10 +54,7 @@ I’m a passionate **University Student** specializing in **FE Developer**, with
 
 ## 📫 Contact Me
 
-Feel free to reach out via:
-
 - ✉️ Email: **[movegun0601@gmail.com]**
-- 💼 [Portfolio](https://ricky0601.github.io) 
-
-<!-- Add other platforms or socials if necessary -->
+- 💼 Portfolio: [✨ 2025 프론트엔드 개발자 한동건 포트폴리오 ✨](https://1dg-portfolio.netlify.app/) 
+- 🚩 Blog: [Velog](https://velog.io/@ricky0601/posts)
 
