@@ -55,6 +55,6 @@ I’m a passionate **University Student** specializing in **FE Developer**, with
 ## 📫 Contact Me
 
 - ✉️ Email: **[movegun0601@gmail.com]**
-- 💼 Portfolio: [✨ 2025 프론트엔드 개발자 한동건 포트폴리오 ✨](https://1dg-portfolio.netlify.app/) 
+- 💼 Portfolio: [✨ 2025 프론트엔드 개발자 한동건 포트폴리오 ✨](https://ricky0601.github.io/)
 - 🚩 Blog: [Velog](https://velog.io/@ricky0601/posts)
 
