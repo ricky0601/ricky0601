@@ -1,5 +1,3 @@
-![Hello, My Github!](https://github.com/user-attachments/assets/4d38996d-58f3-451a-9600-bfc62bee7386)
-
 # 👋 Hi there! I'm Donggeon
 
 <!-- You can add a sleek banner image here for visual impact -->
