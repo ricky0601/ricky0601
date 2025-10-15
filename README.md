@@ -48,6 +48,9 @@ I'm a passionate **Full-stack Developer** with expertise in **Frontend, Backend 
 
 ## 📝 Latest Projects
 
+- 🔗 [Little Garden](https://github.com/ricky0601/LittleGarden): **I participated in the project as a FE developer.**
+  > Little Garden is a plant diary platform where users can record the growth of their plants with photos and share their journey with the community.
+
 - 🔗 [Flenders](https://github.com/ricky0601/Flenders): **I participated in the project as a FE developer.**
   > Development of an AI-Powered Application to Assist Visually Impaired Individuals with Offline Shopping
  
